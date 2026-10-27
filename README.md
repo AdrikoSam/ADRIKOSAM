@@ -9,13 +9,6 @@
   <a href="https://github.com/AdrikoSam/MediVoice">MediVoice Project</a> &nbsp; | &nbsp;  <a href="https://www.linkedin.com/">LinkedIn</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AdrikoSam">GitHub Profile</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/AdrikoSam/MediVoice">MediVoice Project</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
 
 ---
 
