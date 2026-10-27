@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-   Uganda &nbsp; | &nbsp; 💻 Software Development &nbsp; | &nbsp; 🚀 Always Learning
+    <a href="https://github.com/AdrikoSam">GitHub Profile</a> &nbsp; | &nbsp;
+  <a href="https://github.com/AdrikoSam/MediVoice">MediVoice Project</a> &nbsp; | &nbsp;  <a href="https://www.linkedin.com/">LinkedIn</a>
 </p>
 
 <p align="center">
