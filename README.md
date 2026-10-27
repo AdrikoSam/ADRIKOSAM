@@ -1,4 +1,4 @@
-# Hi there! I'm LUBANGAKENE SAMUEL ADRIKO
+# Hi there!   I'm LUBANGAKENE SAMUEL ADRIKO
 
 <p align="center">
   <b>Computer Scientist· Software Engineer · Flutter Developer</b>
