@@ -17,7 +17,7 @@
 | Project | Tech | Status | Description |
 |---|---|---|---|
 | [MediVoice](https://github.com/AdrikoSam/MediVoice) | Flutter · Dart · SQLite | 🟡 Active | Voice-enabled medication reminder app designed for elderly and low-literacy patients in Uganda |
-| **Web Projects** | HTML · CSS · JavaScript | 🟢 Learning | Building and improving web development projects |
+| **School Management System** | HTML · CSS · JavaScript | 🟢 Learning | A premium, responsive, and enterprise-ready educational administration platform. Built with vanilla HTML5, CSS3, and JavaScript, featuring modules for Student Registration, Attendance tracking, Fee management, and an interactive Student/Parent Portal. |
 | **Future Projects** | Exploring | 🔵 Planning | Developing practical software solutions to real-world problems |
 
 ---
