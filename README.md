@@ -29,10 +29,10 @@
 |---|---|
 | Mobile Development | Flutter · Dart |
 | Programming Languages | Python · JavaScript |
-| Web Development | HTML · CSS |
+| Web Development | HTML · CSS | BootStrap
 | Databases | SQLite · Firebase |
 | Tools | Git · GitHub · VS Code |
-| Currently Exploring | Software Engineering · AI & Machine Learning |
+| Currently Exploring |  AI & Machine Learning |
 
 ---
 
