@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🇺🇬 Uganda &nbsp; | &nbsp; 💻 Software Development &nbsp; | &nbsp; 🚀 Always Learning
+   Uganda &nbsp; | &nbsp; 💻 Software Development &nbsp; | &nbsp; 🚀 Always Learning
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Overview
+##  GitHub Overview
 
 | Profile | Link |
 |---|---|
@@ -63,13 +63,13 @@
 
 ---
 
-## Connect With Me
+## Let's Connect 
 
 | Platform | Link |
 |---|---|
 | GitHub | [@AdrikoSam](https://github.com/AdrikoSam) |
 | LinkedIn | [Add your LinkedIn profile](https://www.linkedin.com/) |
-| Email | Add your professional email |
+| Email | adrikoman2@gmail.com |
 
 ---
 
